@@ -1,43 +1,31 @@
 
-# Dokumentasi Kegiatan Workshop
+# Dokumentasi Workshop
+## Building with AI, Managing Change with GitHub
 
-## Identitas Peserta
-
+### Identitas Peserta
 - **Nama:** Sami Athari Zahid
 - **NIM:** 2607431018
 - **Program Studi:** D4 Teknik Multimedia Digital
 - **Kelas:** TMD 1C
+- **Perguruan Tinggi:** Politeknik Negeri Jakarta
 
-## Deskripsi Repository
+### Deskripsi
+Repository ini berisi dokumentasi kegiatan workshop Building with AI, Managing Change with GitHub. Dokumentasi mencakup rangkuman materi, catatan pembelajaran, serta pengetahuan yang diperoleh selama workshop.
 
-Repository ini merupakan tempat penyimpanan dan dokumentasi kegiatan workshop yang berisi materi pembelajaran, rangkuman materi, catatan penting, serta hasil praktik selama kegiatan berlangsung.
+### Tujuan
+- Memahami penggunaan AI melalui Prompt Engineering.
+- Mengenal Git dan GitHub.
+- Memahami dasar version control.
+- Mempelajari pengelolaan dan penyimpanan proyek menggunakan GitHub.
 
-## Tujuan Repository
+### Materi Workshop
+1. Prompt Engineering
+2. Pengenalan Git dan GitHub
+3. Git Workflow dan Version Control
+4. Perintah Dasar Git
+5. Konfigurasi Git dan VS Code
+6. SSH Key dan Koneksi GitHub
+7. Praktik Student Task Planner
 
-Repository ini dibuat untuk:
-1. Mendokumentasikan seluruh kegiatan workshop.
-2. Menyimpan materi dan hasil pembelajaran.
-3. Melatih penggunaan GitHub sebagai media penyimpanan daring.
-4. Mengelola dokumentasi secara terstruktur dan mudah diakses.
 
-## Informasi Kegiatan Workshop
-
-Repository ini digunakan untuk mendokumentasikan kegiatan workshop yang diikuti oleh peserta, mulai dari materi yang disampaikan, proses pembelajaran, hingga hasil praktik yang telah dikerjakan.
-
-## Daftar Dokumentasi
-
-### 1. Materi Workshop
-Berisi materi atau topik yang disampaikan selama kegiatan workshop.
-
-### 2. Rangkuman Pembelajaran
-Berisi catatan dan penjelasan mengenai materi yang telah dipelajari.
-
-### 3. Poin Penting
-Berisi pengetahuan baru, hal-hal penting, dan pemahaman yang diperoleh selama workshop.
-
-### 4. Hasil Praktik
-Berisi dokumentasi hasil pengerjaan atau praktik selama kegiatan workshop.
-
----
-
-**Repository dibuat sebagai dokumentasi pribadi selama mengikuti kegiatan workshop.**
+**Pemateri:** Nugi Farhan – Senior Product Designer.
